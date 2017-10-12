@@ -1,0 +1,3 @@
+[submodule "collabguar_submodule"]
+	path = collabguar_submodule
+	url = https://github.com/collabguar/collabguar_submodule.git
